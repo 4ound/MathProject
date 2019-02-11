@@ -91,5 +91,7 @@ class Matrix:
         print(', '.join('x{} = {}'.format(i + 1, round(x, accuracy_n)) for i, x in enumerate(solution)))
 
 
+#temp
+
 if __name__ == '__main__':
     main()
